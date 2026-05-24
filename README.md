@@ -43,7 +43,7 @@ weather-app/
 ```
 ## 📸 Screenshot
 
-![Weather App](images/weather%20home.png)
+![Weather App](./weather%20home.png)
 
 ---
 
